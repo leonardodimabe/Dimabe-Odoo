@@ -1,0 +1,4 @@
+[submodule "dimabe-odoo/moneda"]
+	path = dimabe-odoo/moneda
+	url = git@github.com:dimabe-odoo/moneda.git
+	branch = master
